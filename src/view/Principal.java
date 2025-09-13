@@ -1,6 +1,5 @@
 package view;
 
-import java.util.Iterator;
 import java.util.concurrent.Semaphore;
 
 import controller.Pessoa;
